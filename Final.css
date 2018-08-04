@@ -48,6 +48,12 @@ html, body{
 .row{
     padding-left: 20px;
 }
+.row-2{
+    padding-left: 0px;
+    background-color: #FCFBFF;
+    
+
+}
 #navigation_instructions{
     text-align: center;
 }
@@ -230,7 +236,7 @@ figure {
     border: 1px solid #ccc;
     width: 70%;
     border-left: none;
-    height: 650px;
+    height: auto;
 }
 
 .card {
