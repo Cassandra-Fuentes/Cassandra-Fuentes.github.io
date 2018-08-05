@@ -21,7 +21,7 @@ html, body{
 }
 .carousel-inner img {
     width: 100%;;
-    height: 600px;
+    height: auto;
 }
 .btn-primary {
     background-color: #6C5869;
@@ -50,8 +50,7 @@ html, body{
 }
 .row-2{
     padding-left: 0px;
-    background-color: #FCFBFF;
-    
+    background-color: #FCFBFF; 
 
 }
 #navigation_instructions{
