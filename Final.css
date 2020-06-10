@@ -54,6 +54,7 @@ html, body{
 
 }
 #navigation_instructions{
+    padding-top: 20px;
     text-align: center;
 }
 #card {
