@@ -55,7 +55,7 @@ html, body{
 
 }
 #navigation_instructions{
-    padding-top: 2rem;
+    padding-top: 6rem;
     text-align: center;
 }
 #card {
@@ -191,7 +191,7 @@ figure {
 }
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
-    padding: 1rem;
+    padding: 2rem;
 }
 
 
