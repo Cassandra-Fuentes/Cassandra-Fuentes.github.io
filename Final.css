@@ -36,6 +36,7 @@ html, body{
 
 .jumbotron {
     padding: 1rem;
+    padding-bottom:2rem;
     border-radius: 0px;
     text-indent: 30px;
     text-align: center;
@@ -54,7 +55,7 @@ html, body{
 
 }
 #navigation_instructions{
-    padding-top: 20px;
+    padding-top: 2rem;
     text-align: center;
 }
 #card {
